@@ -1,0 +1,21 @@
+[submodule "funsearch"]
+	path = funsearch
+	url = git@github.com:google-deepmind/funsearch.git
+[submodule "VeRyPy"]
+	path = VeRyPy
+	url = git@github.com:yorak/VeRyPy.git
+[submodule "pylkh"]
+	path = pylkh
+	url = git@github.com:ben-hudson/pylkh.git
+[submodule "HGS-CVRP"]
+	path = HGS-CVRP
+	url = git@github.com:vidalt/HGS-CVRP.git
+[submodule "attention-learn-to-route"]
+	path = attention-learn-to-route
+	url = git@github.com:wouterkool/attention-learn-to-route.git
+[submodule "POMO"]
+	path = POMO
+	url = git@github.com:yd-kwon/POMO.git
+[submodule "AILS-CVRP"]
+	path = AILS-CVRP
+	url = git@github.com:vinymax10/AILS-CVRP.git
