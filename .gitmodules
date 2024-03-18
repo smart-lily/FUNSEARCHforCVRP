@@ -1,6 +1,3 @@
-[submodule "funsearch"]
-	path = funsearch
-	url = git@github.com:RayZhhh/funsearch.git
 [submodule "VeRyPy"]
 	path = VeRyPy
 	url = git@github.com:yorak/VeRyPy.git
